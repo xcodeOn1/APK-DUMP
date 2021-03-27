@@ -13,4 +13,4 @@ install openssh in termux :
 # Run APK_DUMP
 python3 APP-DUMP.py -t you ip -p were you save apk dump
 
-follow this video : 
+follow this video : https://youtu.be/9UZFC8YYMVk
