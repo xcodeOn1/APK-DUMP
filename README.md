@@ -1,5 +1,5 @@
 # APK-DUMP
-APK-DUMP Script dump android app be ssh .
+APK-DUMP Script dump android app by ssh .
 
 # what new in this script :
 - without USB .
