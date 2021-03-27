@@ -8,7 +8,9 @@ APK-DUMP Script dump android app be ssh .
 
 # how use it ?
 install openssh in termux :
-- pkg install openssh .
+- pkg install openssh .\n
+
+
 python3 APP-DUMP.py -t you ip -p were you save apk dump
 
 follow this video : 
