@@ -106,6 +106,6 @@ try:
         slow1(f"{G}Now you have dump App in{W} %s \n" %options.path)
         slow(f"Don't Forget follow me in {B}Twitter: {W}@xcodeone1")
     else:
-        slow(f"\n{W}See Later Don't Forget follow me in {B}Twitter: {W}@xcodeone1")
+        slow(f"\n{W}See you Later Don't Forget follow me in {B}Twitter: {W}@xcodeone1")
 except AttributeError:
     pass
